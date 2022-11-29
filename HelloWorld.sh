@@ -1,1 +1,1 @@
-echo "Cup World"
+echo "Hello World"

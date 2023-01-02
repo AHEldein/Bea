@@ -1,1 +1,1 @@
-echo "New World GCP !!!"
+echo "New World !!!"
